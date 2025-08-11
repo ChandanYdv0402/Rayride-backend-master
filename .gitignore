@@ -1,3 +1,6 @@
+node_modules/
+.env
+
 /node_modules/.bin/fxparser
 /node_modules/.bin/fxparser.cmd
 /node_modules/.bin/fxparser.ps1
